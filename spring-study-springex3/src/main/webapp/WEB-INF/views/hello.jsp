@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Hello Spring</h1>
+	<h1>Hello Spring~!jsp</h1>
 	<h1>${email}</h1>
 </body>
 </html>
